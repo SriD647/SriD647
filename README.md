@@ -1,5 +1,5 @@
 <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sri Rao!</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/SriD647/SriD647/main/AboutMeScreenShot.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/SriD647/SriD647/main/AboutMeObject.png"> </div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srid647&label=Profile%20views&color=0e75b6&style=flat" alt="srid647" /> </p>
