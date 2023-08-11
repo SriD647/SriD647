@@ -28,5 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srid647&" alt="srid647" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srid647" alt="srid647" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srid647&gruvbox&no-bg=true&margin-w=10&margin-h=10&column=7"" alt="srid647" /></a></p>
+
 
