@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/SriD647/SriD647/main/AboutMe.png"> </div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p  align="left"> <img src="https://komarev.com/ghpvc/?username=srid647&label=Profile%20views&color=0e75b6&style=flat" alt="srid647" /> </p>
+<p  align="left"> <img src="https://komarev.com/ghpvc/?username=SriD647&label=Profile%20views&color=0e75b6&style=flat" alt="SriD647" /> </p>
 
 - 🔭 I’m currently working on **REACT- Fitness app**
 
