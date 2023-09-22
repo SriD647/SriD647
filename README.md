@@ -4,7 +4,7 @@
 
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=SriD647&label=Profile%20views&color=0e75b6&style=flat" alt="SriD647" /> </p>
 
-- 🔭 I’m currently working on **REACT- Fitness app**
+- 🔭 View my <a href="https://linkedin.com/in/https://srisportfolio.netlify.app/" target="blank"> Portfolio </a>
 
 - 🌱 I’m currently learning **MERN Stack and Python**
 
