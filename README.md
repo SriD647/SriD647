@@ -4,7 +4,7 @@
 
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=SriD647&label=Profile%20views&color=0e75b6&style=flat" alt="SriD647" /> </p>
 
-- 🔭 View my <a href="https://linkedin.com/in/https://srisportfolio.netlify.app/" target="blank"> Portfolio </a>
+- 🔭 View my <a href="https://srisportfolio.netlify.app/" target="blank"> Portfolio </a>
 
 - 🌱 I’m currently learning **MERN Stack and Python**
 
