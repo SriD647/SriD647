@@ -6,7 +6,7 @@
 
 - 🔭 View my <a href="https://srisportfolio.netlify.app/" target="blank" rel="noopener noreferrer"> Portfolio </a>
 
-- 🌱 I’m currently learning **MERN Stack and Python**
+- 🌱 I’m currently learning **MERN Stack and AWS**
 
 - 📫 How to reach me **sridatt.rao@hotmail.com**
 
